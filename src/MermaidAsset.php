@@ -14,17 +14,12 @@ use yii\web\AssetBundle;
 
 class MermaidAsset extends AssetBundle
 {
-    public $sourcePath = '@bower/mermaid/dist/www';
+    public $sourcePath = '@bower/mermaid/dist/';
     public $js = [
-        'javascripts/lib/mermaid.js',
-        'javascripts/all.js',
-        'javascripts/highlight.pack.js',
+        'mermaid.js'
     ];
     public $css = [
-        'stylesheets/screen.css',
-        'stylesheets/print.css',
-        'stylesheets/mermaid.forest.css',
-        'stylesheets/solarized_light.css',
+
     ];
     public $depends = [
         'yii\web\JqueryAsset',

@@ -10,7 +10,7 @@
         }
     ],
     "require": {
-        "bower-asset/mermaid": "^7.0.3",
+        "bower-asset/mermaid": "^8.8.0",
         "yiisoft/yii2": "2.0.*"
     },
     "autoload": {
