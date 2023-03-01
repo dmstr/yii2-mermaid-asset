@@ -98,7 +98,7 @@
         },
         {
             "name": "bower-asset/mermaid",
-            "version": "7.0.3",
+            "version": "8.8.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/knsv/mermaid.git",
