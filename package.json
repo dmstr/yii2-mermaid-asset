@@ -1,0 +1,7 @@
+{
+    "name": "dmstr-yii2-mermaid-asset",
+    "private": true,
+    "dependencies": {
+        "mermaid": "^11.0.0"
+    }
+}

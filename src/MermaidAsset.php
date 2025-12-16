@@ -14,9 +14,9 @@ use yii\web\AssetBundle;
 
 class MermaidAsset extends AssetBundle
 {
-    public $sourcePath = '@bower/mermaid/dist/';
+    public $sourcePath = '@npm/mermaid/dist/';
     public $js = [
-        'mermaid.js'
+        'mermaid.min.js'
     ];
     public $css = [
 
